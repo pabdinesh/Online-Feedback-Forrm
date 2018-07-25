@@ -1,0 +1,57 @@
+
+table{
+    border-collapse: collapse;
+width:40%;
+height:40%;				
+text-align: center;
+margin:auto;
+padding:15px;
+vertical-align: center;
+	border:1px groove LightGray;	
+	padding-top:50%;
+	background:LightGray;		
+	}
+th {
+    background-color:slateblue;
+
+    color: white;	
+	}
+body{
+background-color:LightGray;	
+   height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+background-image: url("bg.jpg");
+}
+*
+{
+ text-align:center;
+font-family: 'Playfair Display', serif;
+}
+a
+{
+	color:white;
+	font-weight:bold;
+}	
+input[type=text]
+{
+	width:50%;
+	height:75%;
+}
+input[type=password]
+{
+	width:50%;
+	height:75%;
+}
+
+input[type=submit]
+{
+	background-color:slateblue;
+	color:white;
+	font-weight:bold;
+	border:1px solid LightGray;
+	width:auto;
+	height:auto;
+}
+
